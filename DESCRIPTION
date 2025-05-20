@@ -8,4 +8,4 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: false
 RoxygenNote: 7.1.1
-Imports: sp, fields, snow, dismo, randomForest, earth, kernlab, mgcv, nnet, optimx, breakDown, NeuralNetTools, gbm, raster
+Imports: maptools, sp, rgdal, fields, snow, dismo, randomForest, earth, kernlab, mgcv, nnet, optimx, breakDown, NeuralNetTools, gbm, raster
